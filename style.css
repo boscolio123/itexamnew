@@ -1,0 +1,155 @@
+*{
+/*   border: solid 1px black; */
+  margin: 0px; padding: 0px;
+  vertical-align: top;
+  font-family: 微軟正黑體;
+  letter-spacing: 1px;
+}
+body{
+  background-color:#f1c0e8;
+}
+.resuem{
+  height: 900px; width: 900px;
+  background-color: #fbf8cc;
+  margin-left: auto; margin-right:auto;
+  padding: 0px 20px 0px 20px;
+  overflow : hidden;
+}
+.top{
+  display: inline-block;
+  height: 180px; width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color:#bfd7ea
+}
+.left, .right{
+  display: inline-block;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 50px 5px 0px 10px;
+}
+.left{
+  width: 45%;
+}
+.right{
+  width: 55%;
+}
+.photo{
+  width: 270px;
+  display: inline-block;
+}
+img{
+  width: 200px; height: 200px;
+  border-radius: 100%;
+  display: inline-block;
+  margin: 20px 0px 0px 55px;
+  border: solid 5px;
+  box-shadow: 5px 5px 1px 3px rgba(0,0,1,0.075);
+}
+.rtop{
+  width: 600px; height: 200px;
+  display: inline-block;
+  margin-top: 5px; margin-left: 20px;
+  color:#9c6644
+}
+.self{
+  margin-top: 10px;
+  line-height: 30px;
+}
+.hobby{
+  height: 250px;
+}
+li{
+  display:inline-block;
+  vertical-align: -180%;
+  margin: 0px 8px 0px 25px;
+  font-size: 18px;
+  font-weight: 550;
+  padding-left: 20px;
+}
+.boxname{
+  padding-left: 15px;
+}
+.box{
+  display:inline-block;
+  width: 32%; height: 90px;
+  color: #3f37c9;
+  background-color: #71c9ee;
+  margin: 1px;
+  text-align: center;
+}
+.volleyball, .movie, .game{
+  line-height: 85px;
+  font-size: 18px;
+  font-weight: 900;
+  
+}
+.skill{
+  height: 60px; 
+}
+.line{
+  height: 20px;
+  border: solid 3px;
+  border-radius: 20px;
+  padding: 2px;
+  margin-top: 5px;
+}
+
+.html{
+  width: 65%;
+}
+.css{
+  width: 40%;
+}
+.js{
+  width: 15%;
+}
+.level{
+  position: absobloute;
+  vertical-align: -30%;
+  margin: 0px 0px 20px 33px;
+}
+.school, .work{
+  height: 280px;
+}
+p{
+  font-size: 18px;
+  font-weight: 550;
+  padding-left: 20px;
+  display: inline-block;
+  margin-top: 15px;
+}
+hr{
+  border: solid 2px;
+  border-radius: 20px;
+}
+span{
+  font-size: 18px;
+  vertical-align: bottom;
+}
+.facebook{
+  margin-top:20px;
+  font-size:30px;
+  color:#5fa8d3
+}
+.ig{
+    margin-top:20px;
+  font-size:30px;
+  color:#ff5a5f
+
+}
+.wechat{
+      margin-top:20px;
+  font-size:30px;
+  color:#76c893
+}
+.op{
+  margin-top:5px;
+  font-size:30px;
+  color:#09814a
+}
+.pro{
+   margin-top:5px;
+  font-size:30px;
+  color:#567568
+}
